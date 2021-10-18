@@ -149,7 +149,6 @@ const tr = {
     norec: "Kayıt Yok",
     deposite_Not_Profile: "Profil doğrulamanızı yapmanız gerekmektedir.",
     deposite_title: "Önemli",
-    deposite_li1: "EFT transferlerinde Alıcı kısmına As Global Bilişim A.Ş. yazılması gerekmektedir.",
     deposite_li2: "Adınıza açılmış olan tüm bireysel, vadesiz, Türk Lirası hesaplarınızdan, listelenen hesaplara Havale/EFT işlemi gerçekleştirebilirsiniz. Farklı kişiye ait hesaplardan yapılan gönderimler kabul edilmeyecektir.",
     deposite_li3: "ATM kullanılarak yapılan transferler (kartlı/kartsız), gönderici bilgilerini teyit etmek mümkün olmadığı için kabul edilmeyecektir.",
     deposite_li4: "Gönderdiğiniz miktar kontrollerin ardından sistem tarafından otomatik olarak hesabınıza yansıtılacaktır, ayrıca bir bildirimde bulunmanıza gerek yoktur.",
@@ -317,7 +316,6 @@ const tr = {
     feesAll: 'Ücretler',
     api: 'APİ',
     aml: 'AML Politikası',
-    address: 'Maslak mah. Maslak Meydan sokak Spring Giz Plaza No: 5 / 57 34398 Sarıyer / İstanbul',
     allRights: 'Tüm Hakları Saklıdır. 2021 ornekapp Exchange',
 
     bankcard: {

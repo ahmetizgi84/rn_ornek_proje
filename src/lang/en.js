@@ -147,7 +147,6 @@ const en = {
     norec: "No Record",
     deposite_Not_Profile: "You Need To Verify Your Profile.",
     deposite_title: "Important",
-    deposite_li1: "In EFT transfers, As Global Bilişim A.Ş. must be written.",
     deposite_li2: "You can perform Money Transfer / EFT transactions from all your personal, demand, Turkish Lira accounts opened in your name to the listed accounts. Submissions made from accounts belonging to a different person will not be accepted.",
     deposite_li3: "Transfers made using ATM (with / without card) will not be accepted as it is not possible to confirm the sender information.",
     deposite_li4: "The amount you send will be automatically reflected in your account by the system after the checks, and you do not need to make a notification.",
@@ -315,7 +314,6 @@ const en = {
     feesAll: 'Fees',
     api: 'API',
     aml: 'AML Policy',
-    address: 'Maslak mah. Maslak Meydan sokak Spring Giz Plaza No: 5 / 57 34398 Sarıyer / İstanbul',
     allRights: 'All rights reserved. 2021 ornekapp Exchange',
 
     bankcard: {
